@@ -16,7 +16,6 @@ public class HelloWorld {
 	private void aa() {
 		int a = 4;
 		int b;
-
 	}
 
 }
